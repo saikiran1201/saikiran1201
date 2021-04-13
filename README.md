@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saikiran1201
-- 👀 I’m interested in data analytics, data visualization, AI, Ml and data science.
+- 👀 I’m interested in data analytics, data visualization, AI, ML and data science.
 - 🌱 I’m currently doing MBA in Business Anlytics at uoh
 - 📫 How to reach me pasulakiransai@gmail.com
 
