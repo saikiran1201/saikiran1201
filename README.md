@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @saikiran1201
 - 👀 I’m interested in data analytics, data visualization, AI, ML and data science.
-- 🌱 I’m currently doing MBA in Business Anlytics.
+- 🌱 At present, I'm pursuing my MBA in Business Anlytics at University of Hyderabad.
 - 📫 How to reach me pasulakiransai@gmail.com
+- https://www.linkedin.com/in/saikiran-yadav-339a08a7/
 
 <!---
 saikiran1201/saikiran1201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
