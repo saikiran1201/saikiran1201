@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @saikiran1201
 - 👀 I’m interested in data analytics, data visualization, AI, ML and data science.
-- 🌱 At present, I'm pursuing my MBA in Business Analytics at University of Hyderabad.
 - 📫 How to reach me pasulakiransai@gmail.com
 - https://www.linkedin.com/in/saikiran-yadav-339a08a7/
 
