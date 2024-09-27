@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saikiran1201
 - 👀 I’m interested in data analytics, data visualization, AI, ML and data science.
 - 📫 How to reach me pasulakiransai@gmail.com
-- https://www.linkedin.com/in/saikiran-yadav-339a08a7/
+- https://www.linkedin.com/in/saikiran1201/
 
 <!---
 saikiran1201/saikiran1201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
